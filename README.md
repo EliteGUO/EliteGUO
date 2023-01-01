@@ -1,17 +1,14 @@
 # 平平无奇一名HUSTER
----
 ### 一些联系方式
 - 📫 eliteguo20020128@gmail.com
 - 🌱 3012247386@qq.com
 - 🔭 U202015423@hust.edu.cn
----
 ### 我的主页
 - ❤️ [eliteguo.github.io](https://eliteguo.github.io/)
 
 &nbsp;  
 &nbsp;  
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Eliteguo&show_icons=true&theme=radical)](https://github.com/Eliteguo)
----
 
 &nbsp;  
 &nbsp;  
