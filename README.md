@@ -1,4 +1,4 @@
-📫 有事联系:eliteguo20020128@gmail.com
+- 📫 有事联系:eliteguo20020128@gmail.com
 &nbsp;  
 &nbsp;  
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Eliteguo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
